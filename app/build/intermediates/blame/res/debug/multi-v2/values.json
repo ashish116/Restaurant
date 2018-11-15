@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Ashish\\AndroidStudioProjects\\Restaurant1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ashish\\AndroidStudioProjects\\Restaurant1\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3,9,5,6,7,8",
+                        "startColumns": "4,4,1,4,4,4,4",
+                        "startOffsets": "132,59,699,181,369,519,627",
+                        "endColumns": "47,71,456,186,148,106,73",
+                        "endOffsets": "175,126,1154,363,513,621,696"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,103,175,635,822,971,1078",
+                        "endColumns": "47,71,459,186,148,106,73",
+                        "endOffsets": "98,170,630,817,966,1073,1147"
+                    }
+                }
+            ]
+        }
+    ]
+}
